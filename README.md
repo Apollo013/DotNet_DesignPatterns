@@ -13,6 +13,8 @@ Developed with Visual Studio 2015 Community
 |C#|
 
 ---
+###Design Patterns
+
 |Pattern|Description|
 |-------|-----------|
 |Singleton Pattern| Demonstraes 4 ways to implement the single pattern including static initialization, double-checking, nested class & basic examples|
