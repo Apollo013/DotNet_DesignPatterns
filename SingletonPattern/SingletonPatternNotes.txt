@@ -1,0 +1,9 @@
+﻿(1) Nneeds to ensure that only this one instance is created and the existing instance is used in subsequent calls.
+(2) The class should not require parameters for its construction, as input parameters are a sign that multiple different versions of the class are created – this breaks the most important rule, i.e. that “there can be only one”
+
+
+Drawbacks
+(1) Singletons introduce tight coupling between the caller and the singleton making the software design more fragile
+(2) Singletons are also very difficult to test and are therefore often regarded as an anti-pattern by fierce advocates of testable code.
+(3) Violates the ‘S’ in SOLID software design: the Single Responsibility Principle. 
+	Managing the object lifetime is not considered the responsibility of a class. This should be performed by a separate class.
