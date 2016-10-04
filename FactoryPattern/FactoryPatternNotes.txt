@@ -1,0 +1,4 @@
+﻿(1) Factories build objects
+(2) They often do this using some parameters that help them decide what kind of concrete object to build but that’s not a requirement
+(3) The return type of a factory is often some kind of abstraction, i.e. an interface or an abstract class and the factory builds a concrete implementation of the abstraction.
+
