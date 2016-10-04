@@ -9,12 +9,21 @@ namespace FactoryPattern.Factories.Concrete
 {
     public class ReflectionVehicleFactory : IReflectionVehicleFactory
     {
+        /// <summary>
+        /// Contains a collection of all 'IVehicle' types
+        /// </summary>
         Dictionary<string, Type> vehicles;
 
         public ReflectionVehicleFactory()
         {
             LoadTypes();
         }
+
+        /// <summary>
+        /// Creates a new instance of the specified type
+        /// </summary>
+        /// <param name="type"></param>
+        /// <returns></returns>
         public IVehicle Create(string type)
         {
             Type t = GetType(type);
