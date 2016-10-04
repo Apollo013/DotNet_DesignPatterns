@@ -35,7 +35,7 @@ Developed with Visual Studio 2015 Community
 |Title|Author|Website|
 |-----|------|-------|
 |[Exploring the Factory Design Pattern](https://msdn.microsoft.com/en-us/library/ee817667.aspx)| | MSDN |
-|[Design patterns and practices in .NET: the Factory Patterns – concrete, static, abstract](https://dotnetcodr.com/2015/09/29/design-patterns-and-practices-in-net-the-factory-patterns-concrete-static-abstract/)|Andras Nemes| dotnetcodr|
+|[Design patterns and practices in .NET: the Factory Patterns](https://dotnetcodr.com/2015/09/29/design-patterns-and-practices-in-net-the-factory-patterns-concrete-static-abstract/)|Andras Nemes| dotnetcodr|
 |[Factory Method](http://www.dofactory.com/net/factory-method-design-pattern)| | doFactory |
 
 ---
