@@ -18,18 +18,19 @@ Developed with Visual Studio 2015 Community
 
 |Pattern|Description|UML Included|
 |-------|-----------|------------|
-|Singleton Pattern| Demonstraes 4 ways to implement the single pattern including static initialization, double-checking, nested class & basic examples| No |
+|Builder Pattern| Demonstrates the builder pattern | Yes |
 |Factory Pattern| Demonstrates simple, abstract/concrete implementations and another that uses reflection to load all types for a particulr interface | Yes |
+|Singleton Pattern| Demonstraes 4 ways to implement the single pattern including static initialization, double-checking, nested class & basic examples| No |
 |Null Object Pattern| A consequence of the Factory Pattern | No |
 
 ---
 
-
-###Singleton Pattern Resources
+###Builder Pattern Resources
 |Title|Author|Website|
 |-----|------|-------|
-|[Implementing Singleton in C#](https://msdn.microsoft.com/en-us/library/ff650316.aspx)| | MSDN |
-|[Design patterns and practices in .NET: the Singleton pattern](https://dotnetcodr.com/2013/05/09/design-patterns-and-practices-in-net-the-singleton-pattern/)|Andras Nemes| dotnetcodr|
+|[Builder Pattern](http://www.csharpstar.com/creational-design-patterns/)| | CSharpstar |
+|[Builder](http://www.dofactory.com/net/builder-design-pattern)| | doFactory |
+
 
 ---
 
@@ -39,6 +40,14 @@ Developed with Visual Studio 2015 Community
 |[Exploring the Factory Design Pattern](https://msdn.microsoft.com/en-us/library/ee817667.aspx)| | MSDN |
 |[Design patterns and practices in .NET: the Factory Patterns](https://dotnetcodr.com/2015/09/29/design-patterns-and-practices-in-net-the-factory-patterns-concrete-static-abstract/)|Andras Nemes| dotnetcodr|
 |[Factory Method](http://www.dofactory.com/net/factory-method-design-pattern)| | doFactory |
+
+---
+
+###Singleton Pattern Resources
+|Title|Author|Website|
+|-----|------|-------|
+|[Implementing Singleton in C#](https://msdn.microsoft.com/en-us/library/ff650316.aspx)| | MSDN |
+|[Design patterns and practices in .NET: the Singleton pattern](https://dotnetcodr.com/2013/05/09/design-patterns-and-practices-in-net-the-singleton-pattern/)|Andras Nemes| dotnetcodr|
 
 ---
 
