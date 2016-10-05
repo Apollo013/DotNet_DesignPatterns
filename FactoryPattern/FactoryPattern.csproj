@@ -62,6 +62,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="AbstractFactoryPattern.vpp" />
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>

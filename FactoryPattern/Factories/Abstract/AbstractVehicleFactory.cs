@@ -16,9 +16,9 @@ namespace FactoryPattern.Factories.Abstract
 
         public AbstractVehicleFactory()
         {
-            Fill();
+            Create();
         }
 
-        public abstract void Fill();
+        public abstract void Create();
     }
 }

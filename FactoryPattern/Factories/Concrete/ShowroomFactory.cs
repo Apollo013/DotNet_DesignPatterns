@@ -5,7 +5,7 @@ namespace FactoryPattern.Factories.Concrete
 {
     public class ShowroomFactory : AbstractVehicleFactory
     {
-        public override void Fill()
+        public override void Create()
         {
             Vehicles.Add(new Car());
             Vehicles.Add(new Van());

@@ -5,7 +5,7 @@ namespace FactoryPattern.Factories.Concrete
 {
     public class HangerFactory : AbstractVehicleFactory
     {
-        public override void Fill()
+        public override void Create()
         {
             Vehicles.Add(new CargoPlane());
             Vehicles.Add(new PassengerPlane());

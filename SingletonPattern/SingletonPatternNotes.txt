@@ -1,4 +1,4 @@
-﻿(1) Nneeds to ensure that only this one instance is created and the existing instance is used in subsequent calls.
+﻿(1) Need to ensure that only one instance is created and that this instance is used in subsequent calls.
 (2) The class should not require parameters for its construction, as input parameters are a sign that multiple different versions of the class are created – this breaks the most important rule, i.e. that “there can be only one”
 
 
