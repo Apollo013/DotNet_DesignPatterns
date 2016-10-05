@@ -11,17 +11,19 @@ Developed with Visual Studio 2015 Community
 |Tech|
 |----|
 |C#|
+|Visual Paradigm|
 
 ---
 ###Design Patterns
 
-|Pattern|Description|
-|-------|-----------|
-|Singleton Pattern| Demonstraes 4 ways to implement the single pattern including static initialization, double-checking, nested class & basic examples|
-|Factory Pattern| Demonstrates simple, abstract/concrete implementations and another that uses reflection to load all types for a particulr interface |
-|Null Object Pattern| A consequence of the Factory Pattern |
+|Pattern|Description|UML Included|
+|-------|-----------|------------|
+|Singleton Pattern| Demonstraes 4 ways to implement the single pattern including static initialization, double-checking, nested class & basic examples| No |
+|Factory Pattern| Demonstrates simple, abstract/concrete implementations and another that uses reflection to load all types for a particulr interface | Yes |
+|Null Object Pattern| A consequence of the Factory Pattern | No |
 
 ---
+
 
 ###Singleton Pattern Resources
 |Title|Author|Website|
