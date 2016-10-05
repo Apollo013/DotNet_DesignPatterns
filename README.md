@@ -18,8 +18,9 @@ Developed with Visual Studio 2015 Community
 
 |Pattern|Description|UML Included|
 |-------|-----------|------------|
-|Builder Pattern| Demonstrates the builder pattern | Yes |
+|Builder Pattern| Straight forward builder pattern example | Yes |
 |Factory Pattern| Demonstrates simple, abstract/concrete implementations and another that uses reflection to load all types for a particulr interface | Yes |
+|Prototype Pattern| Straight forward prototype pattern example | Yes |
 |Singleton Pattern| Demonstraes 4 ways to implement the single pattern including static initialization, double-checking, nested class & basic examples| No |
 |Null Object Pattern| A consequence of the Factory Pattern | No |
 
@@ -40,6 +41,15 @@ Developed with Visual Studio 2015 Community
 |[Exploring the Factory Design Pattern](https://msdn.microsoft.com/en-us/library/ee817667.aspx)| | MSDN |
 |[Design patterns and practices in .NET: the Factory Patterns](https://dotnetcodr.com/2015/09/29/design-patterns-and-practices-in-net-the-factory-patterns-concrete-static-abstract/)|Andras Nemes| dotnetcodr|
 |[Factory Method](http://www.dofactory.com/net/factory-method-design-pattern)| | doFactory |
+
+---
+
+###Prototype Pattern Resources
+|Title|Author|Website|
+|-----|------|-------|
+|[Prototype](http://www.dofactory.com/net/prototype-design-pattern)| | doFactory |
+|[Prototype Pattern](http://www.csharpstar.com/creational-design-patterns/)|| CSharpStar|
+|[Design patterns and practices in .NET: the Prototype pattern](https://dotnetcodr.com/2013/08/05/design-patterns-and-practices-in-net-the-prototype-pattern/)|Andras Nemes| dotnetcodr |
 
 ---
 
