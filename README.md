@@ -39,3 +39,10 @@ Developed with Visual Studio 2015 Community
 |[Factory Method](http://www.dofactory.com/net/factory-method-design-pattern)| | doFactory |
 
 ---
+
+###More Resources
+|Title|Author|Website|
+|-----|------|-------|
+|[.NET Design Patterns](http://www.dofactory.com/net/design-patterns)| | dofactory |
+|[Architecture and patterns](https://dotnetcodr.com/architecture-and-patterns/)|Andras Nemes|dotnetcodr|
+|[Creational Design Patterns](http://www.csharpstar.com/creational-design-patterns/)| | CShapster |
