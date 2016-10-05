@@ -1,4 +1,4 @@
-# DotNet_DesignPatterns
+# DotNet_DesignPatterns_CreationalPatterns
 Demonstration of various design patterns
 
 ---
