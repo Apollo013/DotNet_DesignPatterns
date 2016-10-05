@@ -26,13 +26,14 @@ namespace BuilderPattern.Entities
         {
             string divider = new string('-', 60);
             Console.WriteLine(divider);
-            Console.WriteLine("Vehicle Type: {0}", _vehicleType);
+            Console.WriteLine($"Vehicle Type: {_vehicleType}");
             Console.WriteLine(divider);
 
-            Console.WriteLine(" Frame : {0}", _parts["frame"]);
-            Console.WriteLine(" Engine : {0}", _parts["engine"]);
-            Console.WriteLine(" #Wheels: {0}", _parts["wheels"]);
-            Console.WriteLine(" #Doors : {0}", _parts["doors"]);
+            foreach (KeyValuePair<string, string> part in _parts)
+            {
+                Console.WriteLine($"{part.Key}:\t{part.Value}");
+            }
+            Console.WriteLine();
         }
     }
 }
