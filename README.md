@@ -1,5 +1,6 @@
 # DotNet_DesignPatterns_CreationalPatterns
-Demonstration of various design patterns
+
+Demonstration of various creational design patterns
 
 ---
 
