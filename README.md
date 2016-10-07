@@ -67,3 +67,5 @@ Developed with Visual Studio 2015 Community
 |[.NET Design Patterns](http://www.dofactory.com/net/design-patterns)| | dofactory |
 |[Architecture and patterns](https://dotnetcodr.com/architecture-and-patterns/)|Andras Nemes|dotnetcodr|
 |[Creational Design Patterns](http://www.csharpstar.com/creational-design-patterns/)| | CShapster |
+|[patterns & practices](https://msdn.microsoft.com/en-us/library/ff921345.aspx)||MSDN|
+
