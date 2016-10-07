@@ -69,4 +69,4 @@ Developed with Visual Studio 2015 Community
 |[Architecture and patterns](https://dotnetcodr.com/architecture-and-patterns/)|Andras Nemes|dotnetcodr|
 |[Creational Design Patterns](http://www.csharpstar.com/creational-design-patterns/)| | CShapster |
 |[patterns & practices](https://msdn.microsoft.com/en-us/library/ff921345.aspx)||MSDN|
-
+|[Design Patterns in Java Tutorial](https://www.tutorialspoint.com/design_pattern/index.htm)||TutorialsPoint|
