@@ -27,7 +27,14 @@ Developed with Visual Studio 2015 Community
 
 ---
 
-###Builder Pattern Resources
+###Builder Pattern 
+
+####Definition
+Separate the construction of a complex object from its representation so that the same construction process can create different representations.
+
+This allows the client application will simply specify the parameters that should be used to create the complex object and the builder will take care of building the complex object. 
+
+####Resources
 |Title|Author|Website|
 |-----|------|-------|
 |[Builder Pattern](http://www.csharpstar.com/creational-design-patterns/)| | CSharpstar |
@@ -45,7 +52,14 @@ Developed with Visual Studio 2015 Community
 
 ---
 
-###Prototype Pattern Resources
+###Prototype Pattern 
+
+####Definition
+Specifies the kind of objects to create using a prototypical instance, and create new objects by copying this prototype
+
+It is used to create a duplicate object or clone of the current object to enhance performance.
+
+####Resources
 |Title|Author|Website|
 |-----|------|-------|
 |[Prototype](http://www.dofactory.com/net/prototype-design-pattern)| | doFactory |
