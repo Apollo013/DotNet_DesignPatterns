@@ -43,7 +43,12 @@ This allows the client application will simply specify the parameters that shoul
 
 ---
 
-###Factory Pattern Resources
+###Factory Pattern 
+
+####Definition
+Define an interface for creating an object, but let subclasses decide which class to instantiate.
+
+####Resources
 |Title|Author|Website|
 |-----|------|-------|
 |[Exploring the Factory Design Pattern](https://msdn.microsoft.com/en-us/library/ee817667.aspx)| | MSDN |
@@ -68,7 +73,12 @@ It is used to create a duplicate object or clone of the current object to enhanc
 
 ---
 
-###Singleton Pattern Resources
+###Singleton Pattern 
+
+####Definition
+Ensure a class has only one instance and provide a global point of access to it.
+
+####Resources
 |Title|Author|Website|
 |-----|------|-------|
 |[Implementing Singleton in C#](https://msdn.microsoft.com/en-us/library/ff650316.aspx)| | MSDN |
