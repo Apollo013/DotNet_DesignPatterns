@@ -32,7 +32,7 @@ Developed with Visual Studio 2015 Community
 ####Definition
 Separate the construction of a complex object from its representation so that the same construction process can create different representations.
 
-This allows the client application will simply specify the parameters that should be used to create the complex object and the builder will take care of building the complex object. 
+This allows the client application to simply specify the parameters that should be used to create the complex object and the builder will take care of building the complex object. 
 
 ####Resources
 |Title|Author|Website|
@@ -76,7 +76,7 @@ It is used to create a duplicate object or clone of the current object to enhanc
 ###Singleton Pattern 
 
 ####Definition
-Ensure a class has only one instance and provide a global point of access to it.
+Ensures a class has only one instance and provide a global point of access to it.
 
 ####Resources
 |Title|Author|Website|
